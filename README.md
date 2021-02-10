@@ -1,6 +1,11 @@
-# Analysis-Temperature-Paris
-Analysis of the temperature in Paris since 2009
+# Analysis of the Temperature in Paris
 
-Report is in French 
+This is an analysis of the temperature in Paris since 2009 made during a course at ENSTA Paris. We study temperatures as temporal series.
 
-#ENSTA Paris Thanks to Yannig GOUDE 
+
+Please find the Report (in French)
+
+
+Thanks to Yannig GOUDE 
+
+* ENSTA Paris is the oldest engineering school in France *
